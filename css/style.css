@@ -1,3 +1,62 @@
-section {
-    padding-top: 17px;
+body{
+	Margin: 0;
+	Padding: 0;
+}
+
+.btn-1, .btn-2{
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    color: #000;
+    font-weight: 600;
+
+}
+
+.text-bg-secondary{
+	background-color: #4E8C84 !important;
+}
+
+.btn-1:hover{
+	background: #6C757D;
+	color: #fff;
+}
+
+.btn-2:hover{
+	background: #6C757D;
+	color: #fff;
+}
+
+
+.btn-1{
+	margin-right: 5px;
+}
+
+.btn-2{
+	margin-left: 5px;
+}
+
+.navbar{
+	padding: 15px;
+}
+
+.profile-img{
+	border-radius: 50% !important;
+}	
+
+.sect-1{
+	padding: 20px;
+}
+
+
+.head1{
+    background: #3f3f3f;
+    padding: 6px;
+    margin-left: -21px;
+}
+
+a {
+	color: #fff;
+}
+
+.interline {
+	line-height: 1.85;
 }
