@@ -39,6 +39,9 @@ body{
 }
 
 .profile-img{
+	width: 200px !important;
+    height: 200px !important;
+    object-fit: cover; /* обрезка без искажений */
 	border-radius: 50% !important;
 }	
 
